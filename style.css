@@ -4,11 +4,13 @@ body {
   padding: 0;
   text-align: center;
   background-color: #f7f8fa;
+  padding: 20px;
 }
 h1 {
-  font-family: 'Indie Flower', cursive;
+  font-family: Roboto;
   text-align: center;
-  font-size: 48px;
+  font-size: 28px;
+  color: #e6776f;
 }
 section {
   display: flex;
@@ -28,4 +30,8 @@ section p span {
 img {
   margin: auto;
   width: 500px;
+}
+.logo-andre {
+  margin: auto;
+  width: 120px;
 }
