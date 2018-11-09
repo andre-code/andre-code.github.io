@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower|Poor+Story');
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: #f7f8fa;
+}
+h1 {
+  font-family: 'Indie Flower', cursive;
+  text-align: center;
+  font-size: 48px;
+}
+section {
+  display: flex;
+  justify-content: center;
+  font-family: 'Indie Flower', cursive;
+  font-size: 28px;
+}
+section p {
+  margin: 0;
+  display: block;
+  max-width: 600px;
+}
+section p span {
+  font-size: 24px;
+  color: #d25a0f;
+}
+img {
+  margin: auto;
+  width: 500px;
+}
